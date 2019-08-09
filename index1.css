@@ -1,0 +1,68 @@
+
+
+body
+{
+	
+background-color:white;
+
+}
+
+.container
+{
+
+	text-decoration: none;
+}
+
+.nav
+{
+   
+	/*float: right;*/
+	color:black;
+	
+	justify-content: space-between;
+	text-decoration: none;
+	height: 30px;
+	padding:20px;
+	margin: 20px;
+	text-align: right;
+	font-size: 20px;
+
+
+}
+
+.nav1
+{
+
+height: 30px;
+	
+text-align: right;
+font-size: 20px;
+
+}
+
+.container p{
+
+color:black;
+margin-left:10px;
+
+}
+
+.links
+{
+
+	background-color:gray;
+	padding: 10px;	
+	display:flex;
+justify-content:space-around;
+font-size:20px;
+
+
+
+}
+
+.links  a
+{
+justify-content: space-between;
+text-decoration:none;
+ color:black;
+}

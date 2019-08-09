@@ -1,0 +1,55 @@
+
+.container
+{
+	 background-color:white;
+	 background-size: cover;
+	 height: 200px;
+
+
+}
+
+.nav
+{
+
+height: 90px;
+margin:20px;
+color:black;
+background-color:black;
+
+
+}
+.nav_links
+{
+
+float:left;
+
+}
+
+.nav_links a
+{
+color:white;
+text-decoration: none;
+justify-content:space-between;
+font-width:bold;
+
+}
+.nav_img
+{
+	height:30px;
+	width:20px;
+float:right;
+display: flex;
+
+border-radius: 50%;
+	margin-right: 30px;
+	margin-top: 10px;
+	width: 100px;
+
+}
+
+
+.container h1
+{
+
+margin: 20px;
+}
